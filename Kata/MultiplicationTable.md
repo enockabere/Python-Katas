@@ -22,15 +22,15 @@ The user should:
 
 ### Pseudocode
 
-***define*** Function to perform multiplication of numbers
+> **Define** function to perform multiplication of numbers
 
-***set*** list range from 1 to 10
+> **Set** list range from 1 to 10
 
-***input*** number
+> **Input** number
 
-***loop** through the list multiplying the input
+> **Loop** through the list multiplying the input
 
-***return** String and Result
+> **Return** String and Result
 
 ### Python Code
 
