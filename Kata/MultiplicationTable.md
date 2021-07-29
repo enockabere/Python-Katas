@@ -5,7 +5,8 @@ Your goal is to return multiplication table for number that is always an integer
 
 ### Behavior Driven Development
 The user should:
-- input a string to see the multiplication table for that number
+- input a string to see the multiplication table for that number.
+
 | Input |  Output    |
 | ----- | ---------- |
 | 5     | 1 * 5 = 5  |
