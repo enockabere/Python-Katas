@@ -21,10 +21,15 @@ The user should:
 |       | 10 * 5 = 50|
 
 ### Pseudocode
+
 ***define*** Function to perform multiplication of numbers
+
 ***set*** list range from 1 to 10
+
 ***input*** number
+
 ***loop** through the list multiplying the input
+
 ***return** String and Result
 
 ### Python Code
