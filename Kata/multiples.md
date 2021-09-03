@@ -16,7 +16,7 @@ The program should display even numbers/multiples of two within a given range
 > Return a list of multiples
 
 ## Python Code
-''' text
+```text
 #check out this program
 def multiples ():
     y = list (range(1,21))
@@ -24,6 +24,6 @@ def multiples ():
         if x % 2 == 0:
             print(x)
 multiples()
-'''
+```
 ## Kata Link
 [View Kata](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
