@@ -1,7 +1,9 @@
 [![codebeat badge](https://codebeat.co/badges/7bbb17b5-2cde-4108-aac0-eefcd439cf9f)](https://codebeat.co/projects/github-com-enockabere-python-katas-master)
 # Python Katas
 ## Description
-This repository is for generating solutions to different python problems. It uses codebeat that gathers the results of static code analysis into a single, real-time report that gives all project stakeholders the information required to identify code smells, security holes and improve code quality.
+This repository is for generating solutions to different python problems. 
+
+It's linked to codebeat that gathers the results of static code analysis into a single, real-time report that gives all project stakeholders the information required to identify code smells, security holes and improve code quality.
 
 ##### By Enock Abere 
 
