@@ -1,6 +1,9 @@
 # Python Katas
 ## Description
 This repository is for generating solutions to different python problems. It uses codebeat that gathers the results of static code analysis into a single, real-time report that gives all project stakeholders the information required to identify code smells, security holes and improve code quality.
+
+##### By Enock Abere 
+
 ## Making modifications
 To make advancements/modifications, follow these steps:
 
@@ -16,8 +19,7 @@ To make advancements/modifications, follow these steps:
 ## Running The Programs
 - fork/clone repository
 - install the Python language extension (and Python, obviously)
-- open folder (important!), open any md file inside that folder
-- create a python file and paste the py code in the md file opened
+- open folder (important!), open run.py file inside that folder
 - switch to debug "tab"(?) and click on the gearbox (with hint 'Configure of Fix 'launch.json'')
 - save the opened launch.json file (it's placed in .vscode subdirectory in the folder opened in step #2)
 - finally, click the green triangle or hit F5
