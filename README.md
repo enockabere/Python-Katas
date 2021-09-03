@@ -14,13 +14,13 @@ To make advancements/modifications, follow these steps:
 ## Technologies used
 - Python
 ## Running The Programs
-> fork/clone repository
-> install the Python language extension (and Python, obviously)
-> open folder (important!), open any md file inside that folder
-> create a python file and paste the py code in the md file opened
-> switch to debug "tab"(?) and click on the gearbox (with hint 'Configure of Fix 'launch.json'')
-> save the opened launch.json file (it's placed in .vscode subdirectory in the folder opened in step #2)
-> finally, click the green triangle or hit F5
+- fork/clone repository
+- install the Python language extension (and Python, obviously)
+- open folder (important!), open any md file inside that folder
+- create a python file and paste the py code in the md file opened
+- switch to debug "tab"(?) and click on the gearbox (with hint 'Configure of Fix 'launch.json'')
+- save the opened launch.json file (it's placed in .vscode subdirectory in the folder opened in step #2)
+- finally, click the green triangle or hit F5
 ## Support and contact details
 
 Should you be unable to access the website, have any recommendations and/or questions, feel free to email me:[anock.abere@student.moringaschool.com](mailto:anock.abere@student.moringaschool.com)
