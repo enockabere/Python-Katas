@@ -7,7 +7,6 @@ The user should:
 |   Input        |  Output  |
 |----------------|----------|
 | Integer eg = 6 | even     |
-|----------------|----------|
 | Integer eg = 3 | odd      |
 ## Pseudocode
 - Define function to check whether number is odd or even
