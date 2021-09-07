@@ -43,4 +43,3 @@ def sortNum():
     print('Smallest Number = \t',min(mylist),'\n','Lagest Number = \t',max(mylist))
 sortNum()
 ```
-
