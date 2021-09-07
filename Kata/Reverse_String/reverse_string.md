@@ -22,7 +22,7 @@ To reverse characters in a string one should:
 - Define function to reverse a string
 - Declare a variable to accept input and store an string
 - If condition to check whether string entered is a sentence
-- If sentence split, join and reverse string
+- If sentence then split, join and reverse string
 - Output reversed string
 - Else return invalid string
 ## Python code
