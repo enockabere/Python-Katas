@@ -1,9 +1,12 @@
-# Code to validate email
 ## Description
-Write a program which accepts email as form input or from terminal. Validate the email by checking if it contains an “@” symbol and “.” symbol. 
+Implement a program that takes 3 form inputs or from the terminal, and stores them in three variables. Return the largest of the three. Do this without using the the inbuilt max () function!
+The goal of this exercise is to think about some internals that programs normally take care of for us. 
+Extras:
+If the number is a multiple of 4, display out a different message.
+ 
 ## BDD
 The user should:
-  -Input a string to check it is a valid email
+  -Input an integer to check whether is odd or even
 |          Input            |   Output  |
 |---------------------------|-----------|
 | email eg = user@gmail.com |   Valid   |
