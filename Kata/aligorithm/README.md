@@ -42,21 +42,29 @@
 
 **Step 7:** Initialize sum = 0
 
-**Step 8:** for n = 1;n =< count ; n++
+**Step 8:** Initialize n = 1
 
-**Step 9:** Accept list numbers
+**Step 9:** If n <= count (loop)
 
-**Step 10:** Read numbers
+    **Step 9.1:** Accept list numbers
 
-**Step 11:** Add numbers repeatedly and store them in sum
+    **Step 9.2:** Read numbers
 
-**Step 12:** Average = sum divide by count
+    **Step 9.3:** Add sum to number
 
-**Step 13:** Display sum
+    **Step 9.4:** Increament n
 
-**Step 14:** Display Average
+    **Else**
 
-**Step 15:** Stop
+        **Stop**
+
+**Step 10:** Average = sum divide by count
+
+**Step 11:** Display sum
+
+**Step 12:** Display Average
+
+**Step 13:** Stop
 
 ### Flowchart
 
