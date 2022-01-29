@@ -29,19 +29,33 @@
 ### Algorithm
 
 **Step 1:** Start
+
 **Step 2:** Declare variables integer variables n,count,sum and numbers
+
 **Step 3:** Declare variables real variable average
+
 **Step 4:** Declare variables integer variables n,count,sum and number
+
 **Step 5:** Accept number input
+
 **Step 6:** Read count
+
 **Step 7:** Initialize sum = 0
+
 **Step 8:** for n = 1;n =< count ; n++
+
 **Step 9:** Accept list numbers
+
 **Step 10:** Read numbers
+
 **Step 11:** Add numbers repeatedly and store them in sum
+
 **Step 12:** Average = sum divide by count
+
 **Step 13:** Display sum
+
 **Step 14:** Display Average
+
 **Step 15:** Stop
 
 ### Flowchart
