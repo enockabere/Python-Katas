@@ -1,16 +1,27 @@
 # Given the pseudocode, design an algorithm and its corresponding flowchart
 
 **Use Variables:** n, count of the type integer sum, number, average of type real
+
 **Display:** "How many numbers do you want to input"
+
 **Accept** count
+
 **sum =** 0
+
 **FOR** (n=1, n<=count, n+1)
+
 **Display:** "Input number from your list"
+
 **Accept** number
+
 **sum =** sum + number
+
 **ENDFOR** 
+
 **Average =** sum/count
+
 **Display:** "The sum of the number is", sum
+
 **Display:** "The average of the number is", Average
 
 ## Solution
