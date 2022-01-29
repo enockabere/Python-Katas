@@ -68,6 +68,8 @@
 
 ### Flowchart
 
+![img](img/1.jpeg)
+
 ## Program
 
 ### C Language
