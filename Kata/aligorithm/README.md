@@ -30,41 +30,39 @@
 
 **Step 1:** Start
 
-**Step 2:** Declare variables integer variables n,count,sum and numbers
+**Step 2:** Declare integer variables n,count,sum and numbers
 
-**Step 3:** Declare variables real variable average
+**Step 3:** Declare real variables average
 
-**Step 4:** Declare variables integer variables n,count,sum and number
+**Step 4:** Accept number input
 
-**Step 5:** Accept number input
+**Step 5:** Read count
 
-**Step 6:** Read count
+**Step 6:** Initialize sum = 0
 
-**Step 7:** Initialize sum = 0
+**Step 7:** Initialize n = 1
 
-**Step 8:** Initialize n = 1
+**Step 8:** If n <= count
 
-**Step 9:** If n <= count
+- Step 8.1: Accept list numbers
 
-- Step 9.1: Accept list numbers
+- Step 8.2: Read numbers
 
-- Step 9.2: Read numbers
+- Step 8.3: Add sum to number
 
-- Step 9.3: Add sum to number
-
-- Step 9.4: Increament n
+- Step 8.4: Increament n
 
 **Else**
 
 - Stop
 
-**Step 10:** Average = sum divide by count
+**Step 9:** Average = sum divide by count
 
-**Step 11:** Display sum
+**Step 10:** Display sum
 
-**Step 12:** Display Average
+**Step 11:** Display Average
 
-**Step 13:** Stop
+**Step 12:** Stop
 
 ### Flowchart
 
