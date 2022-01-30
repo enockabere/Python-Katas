@@ -54,7 +54,7 @@
 
 **Else**
 
-- Stop
+- Step 8.5: Stop
 
 **Step 9:** Average = sum divide by count
 
